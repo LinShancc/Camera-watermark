@@ -18,4 +18,5 @@ Add popular bottom parameter watermarks to photos taken by the camera（给相�
 - 显示拍摄参数[镜头焦距(非等效)、光圈、快门速度]
 - 支持复制 exif 信息到输出的文件中
 
-
+效果：
+output/DSC_0265.JPG

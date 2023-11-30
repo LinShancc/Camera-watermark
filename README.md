@@ -19,6 +19,3 @@ Add popular bottom parameter watermarks to photos taken by the camera（给相�
 - 支持复制 exif 信息到输出的文件中
 
 
-效果展示：
-
-![输出图片](./output/P1040227.jpg)

@@ -26,4 +26,4 @@ Function:
 
 Results shown:
 效果：
-![示例图片](images/example.jpg)
+![示例图片](output/DSC_0265.JPG)

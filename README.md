@@ -26,4 +26,4 @@ Function:
 
 Results shown:
 效果：
-！output\DSC_0265.JPG
+output/DSC_0265.JPG
